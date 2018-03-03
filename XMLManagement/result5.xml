@@ -1,0 +1,74 @@
+<books>
+	<book>
+		<title>XML in a Nutshell, Third Edition</title>
+		<publication_date>Sep 30, 2004</publication_date>
+		<author>Elliotte Rusty Harold</author>
+		<author>W. Scott Means</author>
+	</book>
+	<book>
+		<title>XML Programming Success in a Day: Beginner?s Guide to Fast, Easy, and Efficient Learning of XML Programming</title>
+		<author>Sam Key</author>
+		<author>Free with Audible trial</author>
+	</book>
+	<book>
+		<title>Learning XML, Second Edition</title>
+		<publication_date>Oct 2, 2003</publication_date>
+		<author>Erik T. Ray</author>
+	</book>
+	<book>
+		<title>XML For Dummies</title>
+		<publication_date>May 20, 2005</publication_date>
+		<author>Lucinda Dykes</author>
+		<author>Ed Tittel</author>
+	</book>
+	<book>
+		<title>Beginning XML</title>
+		<publication_date>Jul 10, 2012</publication_date>
+		<author>Joe Fawcett</author>
+		<author>Danny Ayers</author>
+	</book>
+	<book>
+		<title>XML Crash Course: Step by Step Guide to Mastering XML Programming</title>
+		<publication_date>Mar 19, 2017</publication_date>
+		<author>PG Wizard Books</author>
+	</book>
+	<book>
+		<title>XML: Visual QuickStart Guide (2nd Edition)</title>
+		<publication_date>Dec 21, 2008</publication_date>
+		<author>Kevin Howard Goldberg</author>
+	</book>
+	<book>
+		<title>XML All-in-One Desk Reference For Dummies</title>
+		<publication_date>Jun 27, 2003</publication_date>
+		<author>Richard Wagner</author>
+		<author>Richard Mansfield</author>
+		<author>In Stock</author>
+	</book>
+	<book>
+		<title>XML and JSON Recipes for SQL Server: A Problem-Solution Approach</title>
+		<publication_date>Dec 19, 2017</publication_date>
+		<author>Alex Grinberg</author>
+	</book>
+	<book>
+		<title>XML: Extensible Markup Language (Simplified).</title>
+		<publication_date>May 15, 2015</publication_date>
+		<author>Feyisayo Dosunmu</author>
+		<author>Omolabake Dosunmu</author>
+	</book>
+	<book>
+		<title>XML Pocket Reference: Extensible Markup Language (Pocket Reference (O'Reilly))</title>
+		<publication_date>Aug 18, 2005</publication_date>
+		<author>Simon St. Laurent</author>
+		<author>Michael James Fitzgerald</author>
+	</book>
+	<book>
+		<title>New Perspectives on HTML, CSS, and XML, Comprehensive</title>
+		<publication_date>Aug 15, 2013</publication_date>
+		<author>Patrick Carey</author>
+	</book>
+	<book>
+		<title>Web Coding Bible (18 Books in 1): An Accelerated Course</title>
+		<publication_date>Jan 22, 2015</publication_date>
+		<author>Chong Lip Phang</author>
+	</book>
+</books>

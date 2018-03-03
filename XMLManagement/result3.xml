@@ -1,0 +1,86 @@
+<books>
+	<book>
+		<title>Hadoop BIG DATA Interview Questions You'll Most Likely Be Asked (Job Interview Questions Series) (Volume 11)</title>
+		<author>Vibrant Publishers</author>
+	</book>
+	<book>
+		<title>Streaming, Sharing, Stealing: Big Data and the Future of Entertainment (MIT Press)</title>
+		<publication_date>Aug 5, 2016</publication_date>
+		<author>Michael D. Smith</author>
+		<author>Rahul Telang</author>
+		<author>Free with Audible trial</author>
+	</book>
+	<book>
+		<title>Big Data: A Revolution That Will Transform How We Live, Work, and Think</title>
+		<publication_date>Mar 4, 2014</publication_date>
+		<author>Viktor Mayer-Schönberger</author>
+		<author>Kenneth Cukier</author>
+		<author>Free with Audible trial</author>
+	</book>
+	<book>
+		<title>Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are</title>
+		<author>Seth Stephens-Davidowitz</author>
+		<author>Free with Audible trial</author>
+	</book>
+	<book>
+		<title>Big Data: Principles and best practices of scalable realtime data systems</title>
+		<publication_date>May 10, 2015</publication_date>
+		<author>Nathan Marz</author>
+		<author>James Warren</author>
+	</book>
+	<book>
+		<title>Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking</title>
+		<author>Foster Provost</author>
+		<author>Tom Fawcett</author>
+	</book>
+	<book>
+		<title>Big Data For Dummies</title>
+		<publication_date>Apr 5, 2013</publication_date>
+		<author>Judith Hurwitz</author>
+		<author>Alan Nugent</author>
+	</book>
+	<book>
+		<title>Big Data: A Very Short Introduction (Very Short Introductions)</title>
+		<publication_date>Jan 30, 2018</publication_date>
+		<author>Dawn E. Holmes</author>
+	</book>
+	<book>
+		<title>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</title>
+		<author>Martin Kleppmann</author>
+	</book>
+	<book>
+		<title>Big Data: Using SMART Big Data, Analytics and Metrics To Make Better Decisions and Improve Performance</title>
+		<author>Bernard Marr</author>
+		<author>Free with Audible trial</author>
+	</book>
+	<book>
+		<title>Big Data Science and Analytics: A Hands-On Approach</title>
+		<publication_date>Apr 15, 2016</publication_date>
+		<author>Arshdeep Bahga</author>
+		<author>Vijay Madisetti</author>
+	</book>
+	<book>
+		<title>Big Data, Big Dupe: A little book about a big bunch of nonsense</title>
+		<publication_date>Feb 1, 2018</publication_date>
+		<author>Stephen Few</author>
+	</book>
+	<book>
+		<title>From Big Data to Big Profits: Success with Data and Analytics</title>
+		<publication_date>Aug 3, 2015</publication_date>
+		<author>Russell Walker</author>
+	</book>
+	<book>
+		<title>Data Strategy: How to Profit from a World of Big Data, Analytics and the Internet of Things</title>
+		<author>Bernard Marr</author>
+	</book>
+	<book>
+		<title>Once Upon an Algorithm: How Stories Explain Computing (MIT Press)</title>
+		<publication_date>Aug 11, 2017</publication_date>
+		<author>Martin Erwig</author>
+	</book>
+	<book>
+		<title>Big Data Visualization</title>
+		<publication_date>Feb 28, 2017</publication_date>
+		<author>James D. Miller</author>
+	</book>
+</books>

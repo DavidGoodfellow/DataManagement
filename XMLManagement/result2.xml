@@ -1,0 +1,104 @@
+<books>
+	<book>
+		<title>Machine Learning with TensorFlow 1.x: Second generation machine learning with Google's brainchild - TensorFlow 1.x</title>
+		<author>Quan Hua</author>
+		<author>Shams Ul Azeem</author>
+	</book>
+	<book>
+		<title>Python Data Science Essentials - Second Edition</title>
+		<publication_date>Oct 28, 2016</publication_date>
+		<author>Alberto Boschetti</author>
+		<author>Luca Massaron</author>
+	</book>
+	<book>
+		<title>Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More</title>
+		<publication_date>Oct 20, 2013</publication_date>
+		<author>Matthew A. Russell</author>
+	</book>
+	<book>
+		<title>Introduction to Data Mining</title>
+		<publication_date>2016</publication_date>
+		<author>Tan, Kumar, Steinbach</author>
+	</book>
+	<book>
+		<title>Learning From Data</title>
+		<publication_date>Apr 12, 2011</publication_date>
+		<author>Yaser S. Abu-Mostafa</author>
+		<author>Malik Magdon-Ismail</author>
+		<author>Gordon S. Linoff</author>
+		<author>Michael J. A. Berry</author>
+	</book>
+	<book>
+		<title>Machine Learning with R - Second Edition: Expert techniques for predictive modeling to solve all your data analysis problems</title>
+		<author>Brett Lantz</author>
+		<author>John D. Kelleher</author>
+		<author>Brian Mac Namee</author>
+	</book>
+	<book>
+		<title>Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management</title>
+		<publication_date>Apr 12, 2011</publication_date>
+		<author>Gordon S. Linoff</author>
+		<author>Michael J. A. Berry</author>
+		<author>Stephen Marsland</author>
+	</book>
+	<book>
+		<title>Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management</title>
+		<publication_date>Apr 12, 2011</publication_date>
+		<author>Yaser S. Abu-Mostafa</author>
+		<author>Malik Magdon-Ismail</author>
+		<author>Gordon S. Linoff</author>
+		<author>Michael J. A. Berry</author>
+	</book>
+	<book>
+		<title>Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies (MIT Press)</title>
+		<author>Brett Lantz</author>
+		<author>John D. Kelleher</author>
+		<author>Brian Mac Namee</author>
+	</book>
+	<book>
+		<title>Machine Learning: An Algorithmic Perspective, Second Edition (Chapman and Hall/Crc Machine Learning and Pattern Recognition)</title>
+		<publication_date>Apr 12, 2011</publication_date>
+		<author>Gordon S. Linoff</author>
+		<author>Michael J. A. Berry</author>
+		<author>Stephen Marsland</author>
+	</book>
+	<book>
+		<title>R for Data Science: Import, Tidy, Transform, Visualize, and Model Data</title>
+		<publication_date>Jan 5, 2017</publication_date>
+		<author>Hadley Wickham</author>
+		<author>Garrett Grolemund</author>
+	</book>
+	<book>
+		<title>An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)</title>
+		<author>Gareth James</author>
+		<author>Daniela Witten</author>
+	</book>
+	<book>
+		<title>Text Mining with R: A Tidy Approach</title>
+		<publication_date>Jul 2, 2017</publication_date>
+		<author>Julia Silge</author>
+		<author>David Robinson</author>
+	</book>
+	<book>
+		<title>Introduction to Machine Learning with Python: A Guide for Data Scientists</title>
+		<publication_date>Oct 21, 2016</publication_date>
+		<author>Andreas C. Müller</author>
+		<author>Sarah Guido</author>
+	</book>
+	<book>
+		<title>Data Mining and Predictive Analytics (Wiley Series on Methods and Applications in Data Mining)</title>
+		<author>Daniel T. Larose</author>
+		<author>Chantal D. Larose</author>
+	</book>
+	<book>
+		<title>Python Deep Learning</title>
+		<publication_date>Apr 28, 2017</publication_date>
+		<author>Valentino Zocca</author>
+		<author>Gianmario Spacagna</author>
+	</book>
+	<book>
+		<title>Introduction to Algorithmic Marketing: Artificial Intelligence for Marketing Operations</title>
+		<publication_date>Dec 2, 2017</publication_date>
+		<author>Ilya Katsov</author>
+	</book>
+</books>

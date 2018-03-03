@@ -1,0 +1,84 @@
+<books>
+	<book>
+		<title>Hands-On Data Science and Python Machine Learning</title>
+		<publication_date>Jul 31, 2017</publication_date>
+		<author>Frank Kane</author>
+	</book>
+	<book>
+		<title>Big Data Analytics with R</title>
+		<publication_date>Jul 29, 2016</publication_date>
+		<author>Simon Walkowiak</author>
+	</book>
+	<book>
+		<title>Data Mining: Concepts and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)</title>
+		<author>Jiawei Han</author>
+		<author>Micheline Kamber</author>
+	</book>
+	<book>
+		<title>Data Mining, Fourth Edition: Practical Machine Learning Tools and Techniques (Morgan Kaufmann Series in Data Management Systems)</title>
+		<author>Ian H. Witten</author>
+		<author>Eibe Frank</author>
+	</book>
+	<book>
+		<title>Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (Morgan Kaufmann Series in Data Management Systems)</title>
+		<author>Ian H. Witten</author>
+		<author>Eibe Frank</author>
+	</book>
+	<book>
+		<title>Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking</title>
+		<author>Foster Provost</author>
+		<author>Tom Fawcett</author>
+	</book>
+	<book>
+		<title>Data Mining: The Textbook</title>
+		<publication_date>Apr 14, 2015</publication_date>
+		<author>Charu C. Aggarwal</author>
+	</book>
+	<book>
+		<title>Introduction to Data Mining</title>
+		<publication_date>May 12, 2005</publication_date>
+		<author>Pang-Ning Tan</author>
+		<author>Michael Steinbach</author>
+	</book>
+	<book>
+		<title>Data Science from Scratch: First Principles with Python</title>
+		<publication_date>Apr 30, 2015</publication_date>
+		<author>Joel Grus</author>
+	</book>
+	<book>
+		<title>The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)</title>
+		<author>Trevor Hastie</author>
+		<author>Robert Tibshirani</author>
+	</book>
+	<book>
+		<title>Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies (MIT Press)</title>
+		<author>John D. Kelleher</author>
+		<author>Brian Mac Namee</author>
+	</book>
+	<book>
+		<title>Data Mining for Business Analytics: Concepts, Techniques, and Applications with XLMiner</title>
+		<publication_date>Apr 18, 2016</publication_date>
+		<author>Galit Shmueli</author>
+		<author>Peter C. Bruce</author>
+	</book>
+	<book>
+		<title>Data Mining For Dummies</title>
+		<publication_date>Sep 17, 2014</publication_date>
+		<author>Meta S. Brown</author>
+	</book>
+	<book>
+		<title>Introduction to Data Mining</title>
+		<publication_date>2016</publication_date>
+		<author>Tan, Kumar, Steinbach</author>
+	</book>
+	<book>
+		<title>Once Upon an Algorithm: How Stories Explain Computing (MIT Press)</title>
+		<publication_date>Aug 11, 2017</publication_date>
+		<author>Martin Erwig</author>
+	</book>
+	<book>
+		<title>Learning Social Media Analytics with R: Transform data from social media platforms into actionable business insights</title>
+		<author>Raghav Bali</author>
+		<author>Dipanjan Sarkar</author>
+	</book>
+</books>
